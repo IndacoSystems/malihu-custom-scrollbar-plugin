@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>iCustomScrollbar</id>
+    <version>3.4.0</version>
+    <authors>malihu </authors>
+    <owners>Indaco Systems</owners>
+    <description>Custom scrollbar, modified by Indaco Systems</description>
+    <projectUrl>https://github.com/malihu/malihu-custom-scrollbar-plugin</projectUrl>
+    <licenseUrl>http://www.gnu.org/licenses/lgpl.html</licenseUrl>
+    <tags>custom scrollbar</tags>
+    <language>en-US</language>
+  </metadata>
+  <files>
+    <file src="js\uncompressed\jquery.mCustomScrollbar.js" target="Content\Scripts\Lib\Vendor\mCustomScrollbar\jquery.mCustomScrollbar.js" />
+    <file src="js\minified\jquery.mCustomScrollbar.min.js" target="Content\Scripts\Lib\Vendor\mCustomScrollbar\jquery.mCustomScrollbar.min.js" />
+	<file src="js\uncompressed\jquery.mousewheel.js" target="Content\Scripts\Lib\Vendor\mCustomScrollbar\jquery.mousewheel.js" />
+    <file src="jquery.mCustomScrollbar.css" target="Content\Scripts\Lib\Vendor\mCustomScrollbar\jquery.mCustomScrollbar.css" />
+    <file src="mCSB_buttons.png" target="Content\Scripts\Lib\Vendor\mCustomScrollbar\mCSB_buttons.png" />    
+  </files>
+</package>
