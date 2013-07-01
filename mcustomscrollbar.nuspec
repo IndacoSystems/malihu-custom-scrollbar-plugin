@@ -12,10 +12,9 @@
     <language>en-US</language>
   </metadata>
   <files>
-    <file src="js\uncompressed\jquery.mCustomScrollbar.js" target="Content\Scripts\Lib\Vendor\mCustomScrollbar\jquery.mCustomScrollbar.js" />
-    <file src="js\minified\jquery.mCustomScrollbar.min.js" target="Content\Scripts\Lib\Vendor\mCustomScrollbar\jquery.mCustomScrollbar.min.js" />
+	<file src="js\uncompressed\jquery.mCustomScrollbar.js" target="Content\Scripts\Lib\Vendor\mCustomScrollbar\jquery.mCustomScrollbar.js" />
 	<file src="js\uncompressed\jquery.mousewheel.js" target="Content\Scripts\Lib\Vendor\mCustomScrollbar\jquery.mousewheel.js" />
-    <file src="jquery.mCustomScrollbar.css" target="Content\Scripts\Lib\Vendor\mCustomScrollbar\jquery.mCustomScrollbar.css" />
-    <file src="mCSB_buttons.png" target="Content\Scripts\Lib\Vendor\mCustomScrollbar\mCSB_buttons.png" />    
+	<file src="jquery.mCustomScrollbar.css" target="Content\Scripts\Lib\Vendor\mCustomScrollbar\jquery.mCustomScrollbar.css" />
+	<file src="mCSB_buttons.png" target="Content\Scripts\Lib\Vendor\mCustomScrollbar\mCSB_buttons.png" />    
   </files>
 </package>
